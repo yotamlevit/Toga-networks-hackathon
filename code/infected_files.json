@@ -1,0 +1,403 @@
+infected_files:
+
+data\vol_1\snapshot_1\0_obj2
+data\vol_1\snapshot_1\1_obj2
+data\vol_1\snapshot_1\geo
+data\vol_1\snapshot_1\sum
+data\vol_1\snapshot_2\0_obj2
+data\vol_1\snapshot_2\1_obj2
+data\vol_1\snapshot_2\geo
+data\vol_1\snapshot_2\sum
+data\vol_1\snapshot_3\0_obj2
+data\vol_1\snapshot_3\1_obj2
+data\vol_1\snapshot_3\geo
+data\vol_1\snapshot_3\sum
+data\vol_1\snapshot_4\0_obj2
+data\vol_1\snapshot_4\1_obj2
+data\vol_1\snapshot_4\geo
+data\vol_1\snapshot_4\sum
+data\vol_1\snapshot_5\0_obj2
+data\vol_1\snapshot_5\1_obj2
+data\vol_1\snapshot_5\geo
+data\vol_1\snapshot_5\sum
+data\vol_1\snapshot_6\0_obj2
+data\vol_1\snapshot_6\1_obj2
+data\vol_1\snapshot_6\geo
+data\vol_1\snapshot_6\sum
+data\vol_1\snapshot_7\0_obj2
+data\vol_1\snapshot_7\1_obj2
+data\vol_1\snapshot_7\geo
+data\vol_1\snapshot_7\sum
+data\vol_1\snapshot_8\0_obj2
+data\vol_1\snapshot_8\1_obj2
+data\vol_1\snapshot_8\geo
+data\vol_1\snapshot_8\sum
+data\vol_1\snapshot_9\0_obj2
+data\vol_1\snapshot_9\1_obj2
+data\vol_1\snapshot_9\geo
+data\vol_1\snapshot_9\sum
+data\vol_1\snapshot_10\0_obj2
+data\vol_1\snapshot_10\1_obj2
+data\vol_1\snapshot_10\geo
+data\vol_1\snapshot_10\sum
+data\vol_2\snapshot_1\0_pic
+data\vol_2\snapshot_1\1_pic
+data\vol_2\snapshot_2\0_pic
+data\vol_2\snapshot_2\1_pic
+data\vol_2\snapshot_3\0_pic
+data\vol_2\snapshot_3\11_sherlock.txt
+data\vol_2\snapshot_3\1_Badges.xml
+data\vol_2\snapshot_3\1_pic
+data\vol_2\snapshot_3\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_3\35_sherlock.txt
+data\vol_2\snapshot_3\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_3\4_sherlock.txt
+data\vol_2\snapshot_3\5_Users.xml
+data\vol_2\snapshot_4\0_pic
+data\vol_2\snapshot_4\11_sherlock.txt
+data\vol_2\snapshot_4\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_4\1_Badges.xml
+data\vol_2\snapshot_4\1_pic
+data\vol_2\snapshot_4\1_plrabn12.txt
+data\vol_2\snapshot_4\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_4\24_sherlock.txt
+data\vol_2\snapshot_4\35_sherlock.txt
+data\vol_2\snapshot_4\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_4\46_sherlock.txt
+data\vol_2\snapshot_4\4_sherlock.txt
+data\vol_2\snapshot_4\5_Badges.xml
+data\vol_2\snapshot_4\5_Users.xml
+data\vol_2\snapshot_5\0_pic
+data\vol_2\snapshot_5\11_sherlock.txt
+data\vol_2\snapshot_5\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\14_sherlock.txt
+data\vol_2\snapshot_5\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\1_Badges.xml
+data\vol_2\snapshot_5\1_pic
+data\vol_2\snapshot_5\1_plrabn12.txt
+data\vol_2\snapshot_5\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\20_sherlock.txt
+data\vol_2\snapshot_5\24_sherlock.txt
+data\vol_2\snapshot_5\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\35_sherlock.txt
+data\vol_2\snapshot_5\3_book1
+data\vol_2\snapshot_5\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\46_sherlock.txt
+data\vol_2\snapshot_5\4_sherlock.txt
+data\vol_2\snapshot_5\4_Users.xml
+data\vol_2\snapshot_5\5_Badges.xml
+data\vol_2\snapshot_5\5_Users.xml
+data\vol_2\snapshot_5\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_5\9_sherlock.txt
+data\vol_2\snapshot_5\paper4
+data\vol_2\snapshot_6\0_pic
+data\vol_2\snapshot_6\11_sherlock.txt
+data\vol_2\snapshot_6\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\14_sherlock.txt
+data\vol_2\snapshot_6\15_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\18_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\1_Badges.xml
+data\vol_2\snapshot_6\1_pic
+data\vol_2\snapshot_6\1_plrabn12.txt
+data\vol_2\snapshot_6\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\20_sherlock.txt
+data\vol_2\snapshot_6\22_sherlock.txt
+data\vol_2\snapshot_6\24_sherlock.txt
+data\vol_2\snapshot_6\25_sherlock.txt
+data\vol_2\snapshot_6\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\2_plrabn12.txt
+data\vol_2\snapshot_6\34_sherlock.txt
+data\vol_2\snapshot_6\35_sherlock.txt
+data\vol_2\snapshot_6\39_sherlock.txt
+data\vol_2\snapshot_6\3_book1
+data\vol_2\snapshot_6\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\40_sherlock.txt
+data\vol_2\snapshot_6\46_sherlock.txt
+data\vol_2\snapshot_6\4_sherlock.txt
+data\vol_2\snapshot_6\4_Users.xml
+data\vol_2\snapshot_6\52_sherlock.txt
+data\vol_2\snapshot_6\5_Badges.xml
+data\vol_2\snapshot_6\5_Users.xml
+data\vol_2\snapshot_6\6_Users.xml
+data\vol_2\snapshot_6\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\9_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_6\9_sherlock.txt
+data\vol_2\snapshot_6\aaa.txt
+data\vol_2\snapshot_6\paper4
+data\vol_2\snapshot_7\0_pic
+data\vol_2\snapshot_7\11_sherlock.txt
+data\vol_2\snapshot_7\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\12_sherlock.txt
+data\vol_2\snapshot_7\14_sherlock.txt
+data\vol_2\snapshot_7\15_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\16_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\18_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\1_Badges.xml
+data\vol_2\snapshot_7\1_pic
+data\vol_2\snapshot_7\1_plrabn12.txt
+data\vol_2\snapshot_7\1_Users.xml
+data\vol_2\snapshot_7\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\20_sherlock.txt
+data\vol_2\snapshot_7\22_sherlock.txt
+data\vol_2\snapshot_7\24_sherlock.txt
+data\vol_2\snapshot_7\25_sherlock.txt
+data\vol_2\snapshot_7\2_Badges.xml
+data\vol_2\snapshot_7\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\2_plrabn12.txt
+data\vol_2\snapshot_7\34_sherlock.txt
+data\vol_2\snapshot_7\35_sherlock.txt
+data\vol_2\snapshot_7\36_sherlock.txt
+data\vol_2\snapshot_7\39_sherlock.txt
+data\vol_2\snapshot_7\3_book1
+data\vol_2\snapshot_7\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\40_sherlock.txt
+data\vol_2\snapshot_7\46_sherlock.txt
+data\vol_2\snapshot_7\4_sherlock.txt
+data\vol_2\snapshot_7\4_Users.xml
+data\vol_2\snapshot_7\52_sherlock.txt
+data\vol_2\snapshot_7\5_Badges.xml
+data\vol_2\snapshot_7\5_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\5_Users.xml
+data\vol_2\snapshot_7\6_Users.xml
+data\vol_2\snapshot_7\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\9_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_7\9_sherlock.txt
+data\vol_2\snapshot_7\aaa.txt
+data\vol_2\snapshot_7\paper4
+data\vol_2\snapshot_8\0_pic
+data\vol_2\snapshot_8\0_Users.xml
+data\vol_2\snapshot_8\11_sherlock.txt
+data\vol_2\snapshot_8\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\12_sherlock.txt
+data\vol_2\snapshot_8\13_Users.xml
+data\vol_2\snapshot_8\14_sherlock.txt
+data\vol_2\snapshot_8\14_Users.xml
+data\vol_2\snapshot_8\15_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\16_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\17_sherlock.txt
+data\vol_2\snapshot_8\18_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\1_Badges.xml
+data\vol_2\snapshot_8\1_pic
+data\vol_2\snapshot_8\1_plrabn12.txt
+data\vol_2\snapshot_8\1_Users.xml
+data\vol_2\snapshot_8\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\20_sherlock.txt
+data\vol_2\snapshot_8\22_sherlock.txt
+data\vol_2\snapshot_8\24_sherlock.txt
+data\vol_2\snapshot_8\25_sherlock.txt
+data\vol_2\snapshot_8\2_Badges.xml
+data\vol_2\snapshot_8\2_book1
+data\vol_2\snapshot_8\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\2_plrabn12.txt
+data\vol_2\snapshot_8\31_sherlock.txt
+data\vol_2\snapshot_8\34_sherlock.txt
+data\vol_2\snapshot_8\35_sherlock.txt
+data\vol_2\snapshot_8\36_sherlock.txt
+data\vol_2\snapshot_8\39_sherlock.txt
+data\vol_2\snapshot_8\3_book1
+data\vol_2\snapshot_8\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\40_sherlock.txt
+data\vol_2\snapshot_8\46_sherlock.txt
+data\vol_2\snapshot_8\4_book1
+data\vol_2\snapshot_8\4_sherlock.txt
+data\vol_2\snapshot_8\4_Users.xml
+data\vol_2\snapshot_8\51_sherlock.txt
+data\vol_2\snapshot_8\52_sherlock.txt
+data\vol_2\snapshot_8\5_Badges.xml
+data\vol_2\snapshot_8\5_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\5_Users.xml
+data\vol_2\snapshot_8\6_Users.xml
+data\vol_2\snapshot_8\7_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\9_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_8\9_sherlock.txt
+data\vol_2\snapshot_8\aaa.txt
+data\vol_2\snapshot_8\paper4
+data\vol_2\snapshot_9\0_news
+data\vol_2\snapshot_9\0_pic
+data\vol_2\snapshot_9\0_Users.xml
+data\vol_2\snapshot_9\10_Users.xml
+data\vol_2\snapshot_9\11_sherlock.txt
+data\vol_2\snapshot_9\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\12_sherlock.txt
+data\vol_2\snapshot_9\13_Users.xml
+data\vol_2\snapshot_9\14_sherlock.txt
+data\vol_2\snapshot_9\14_Users.xml
+data\vol_2\snapshot_9\15_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\16_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\17_sherlock.txt
+data\vol_2\snapshot_9\18_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\18_sherlock.txt
+data\vol_2\snapshot_9\1_Badges.xml
+data\vol_2\snapshot_9\1_pic
+data\vol_2\snapshot_9\1_plrabn12.txt
+data\vol_2\snapshot_9\1_Users.xml
+data\vol_2\snapshot_9\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\20_sherlock.txt
+data\vol_2\snapshot_9\22_sherlock.txt
+data\vol_2\snapshot_9\24_sherlock.txt
+data\vol_2\snapshot_9\25_sherlock.txt
+data\vol_2\snapshot_9\2_Badges.xml
+data\vol_2\snapshot_9\2_book1
+data\vol_2\snapshot_9\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\2_plrabn12.txt
+data\vol_2\snapshot_9\2_Users.xml
+data\vol_2\snapshot_9\31_sherlock.txt
+data\vol_2\snapshot_9\32_sherlock.txt
+data\vol_2\snapshot_9\34_sherlock.txt
+data\vol_2\snapshot_9\35_sherlock.txt
+data\vol_2\snapshot_9\36_sherlock.txt
+data\vol_2\snapshot_9\39_sherlock.txt
+data\vol_2\snapshot_9\3_Badges.xml
+data\vol_2\snapshot_9\3_book1
+data\vol_2\snapshot_9\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\3_news
+data\vol_2\snapshot_9\40_sherlock.txt
+data\vol_2\snapshot_9\44_sherlock.txt
+data\vol_2\snapshot_9\46_sherlock.txt
+data\vol_2\snapshot_9\48_sherlock.txt
+data\vol_2\snapshot_9\4_book1
+data\vol_2\snapshot_9\4_sherlock.txt
+data\vol_2\snapshot_9\4_Users.xml
+data\vol_2\snapshot_9\50_sherlock.txt
+data\vol_2\snapshot_9\51_sherlock.txt
+data\vol_2\snapshot_9\52_sherlock.txt
+data\vol_2\snapshot_9\5_Badges.xml
+data\vol_2\snapshot_9\5_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\5_Users.xml
+data\vol_2\snapshot_9\6_Users.xml
+data\vol_2\snapshot_9\7_Badges.xml
+data\vol_2\snapshot_9\7_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\9_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_9\9_sherlock.txt
+data\vol_2\snapshot_9\aaa.txt
+data\vol_2\snapshot_9\paper1
+data\vol_2\snapshot_9\paper4
+data\vol_2\snapshot_10\0_news
+data\vol_2\snapshot_10\0_pic
+data\vol_2\snapshot_10\0_Users.xml
+data\vol_2\snapshot_10\10_Users.xml
+data\vol_2\snapshot_10\11_sherlock.txt
+data\vol_2\snapshot_10\11_Users.xml
+data\vol_2\snapshot_10\12_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\12_sherlock.txt
+data\vol_2\snapshot_10\13_Users.xml
+data\vol_2\snapshot_10\14_sherlock.txt
+data\vol_2\snapshot_10\14_Users.xml
+data\vol_2\snapshot_10\15_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\15_sherlock.txt
+data\vol_2\snapshot_10\16_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\17_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\17_sherlock.txt
+data\vol_2\snapshot_10\18_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\18_sherlock.txt
+data\vol_2\snapshot_10\1_Badges.xml
+data\vol_2\snapshot_10\1_pic
+data\vol_2\snapshot_10\1_plrabn12.txt
+data\vol_2\snapshot_10\1_Users.xml
+data\vol_2\snapshot_10\20_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\20_sherlock.txt
+data\vol_2\snapshot_10\22_sherlock.txt
+data\vol_2\snapshot_10\24_sherlock.txt
+data\vol_2\snapshot_10\25_sherlock.txt
+data\vol_2\snapshot_10\2_Badges.xml
+data\vol_2\snapshot_10\2_book1
+data\vol_2\snapshot_10\2_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\2_plrabn12.txt
+data\vol_2\snapshot_10\2_Users.xml
+data\vol_2\snapshot_10\31_sherlock.txt
+data\vol_2\snapshot_10\32_sherlock.txt
+data\vol_2\snapshot_10\34_sherlock.txt
+data\vol_2\snapshot_10\35_sherlock.txt
+data\vol_2\snapshot_10\36_sherlock.txt
+data\vol_2\snapshot_10\39_sherlock.txt
+data\vol_2\snapshot_10\3_Badges.xml
+data\vol_2\snapshot_10\3_book1
+data\vol_2\snapshot_10\3_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\3_news
+data\vol_2\snapshot_10\40_sherlock.txt
+data\vol_2\snapshot_10\44_sherlock.txt
+data\vol_2\snapshot_10\46_sherlock.txt
+data\vol_2\snapshot_10\48_sherlock.txt
+data\vol_2\snapshot_10\49_sherlock.txt
+data\vol_2\snapshot_10\4_book1
+data\vol_2\snapshot_10\4_sherlock.txt
+data\vol_2\snapshot_10\4_Users.xml
+data\vol_2\snapshot_10\50_sherlock.txt
+data\vol_2\snapshot_10\51_sherlock.txt
+data\vol_2\snapshot_10\52_sherlock.txt
+data\vol_2\snapshot_10\5_Badges.xml
+data\vol_2\snapshot_10\5_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\5_Users.xml
+data\vol_2\snapshot_10\6_Badges.xml
+data\vol_2\snapshot_10\6_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\6_Users.xml
+data\vol_2\snapshot_10\7_Badges.xml
+data\vol_2\snapshot_10\7_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\8_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\9_Don Quixote, by Miguel de Cervantes.html
+data\vol_2\snapshot_10\9_sherlock.txt
+data\vol_2\snapshot_10\aaa.txt
+data\vol_2\snapshot_10\paper1
+data\vol_2\snapshot_10\paper4
+data\vol_3\snapshot_1\0_ptt5
+data\vol_3\snapshot_1\1_ptt5
+data\vol_3\snapshot_1\2_ptt5
+data\vol_3\snapshot_1\3_ptt5
+data\vol_3\snapshot_1\4_ptt5
+data\vol_3\snapshot_1\obj1
+data\vol_3\snapshot_2\0_ptt5
+data\vol_3\snapshot_2\1_ptt5
+data\vol_3\snapshot_2\2_ptt5
+data\vol_3\snapshot_2\3_ptt5
+data\vol_3\snapshot_2\4_ptt5
+data\vol_3\snapshot_2\obj1
+data\vol_3\snapshot_3\0_ptt5
+data\vol_3\snapshot_3\1_ptt5
+data\vol_3\snapshot_3\2_ptt5
+data\vol_3\snapshot_3\3_ptt5
+data\vol_3\snapshot_3\4_ptt5
+data\vol_3\snapshot_3\obj1
+data\vol_3\snapshot_4\0_ptt5
+data\vol_3\snapshot_4\1_ptt5
+data\vol_3\snapshot_4\2_ptt5
+data\vol_3\snapshot_4\3_ptt5
+data\vol_3\snapshot_4\4_ptt5
+data\vol_3\snapshot_4\obj1
+data\vol_3\snapshot_5\0_ptt5
+data\vol_3\snapshot_5\1_ptt5
+data\vol_3\snapshot_5\2_ptt5
+data\vol_3\snapshot_5\3_ptt5
+data\vol_3\snapshot_5\4_ptt5
+data\vol_3\snapshot_5\obj1
+data\vol_3\snapshot_6\0_ptt5
+data\vol_3\snapshot_6\1_ptt5
+data\vol_3\snapshot_6\2_ptt5
+data\vol_3\snapshot_6\3_ptt5
+data\vol_3\snapshot_6\4_ptt5
+data\vol_3\snapshot_6\obj1
+data\vol_3\snapshot_7\0_ptt5
+data\vol_3\snapshot_7\2_ptt5
+data\vol_3\snapshot_7\3_ptt5
+data\vol_3\snapshot_7\4_ptt5
+data\vol_3\snapshot_8\0_ptt5
+data\vol_3\snapshot_8\2_ptt5
+data\vol_3\snapshot_8\3_ptt5
+data\vol_3\snapshot_8\4_ptt5
+data\vol_3\snapshot_9\0_ptt5
+data\vol_3\snapshot_9\2_ptt5
+data\vol_3\snapshot_9\3_ptt5
+data\vol_3\snapshot_9\4_ptt5
+data\vol_3\snapshot_10\2_ptt5
+data\vol_3\snapshot_10\3_ptt5
+data\vol_3\snapshot_10\4_ptt5
+
+
+
+files that didn't open:
+
