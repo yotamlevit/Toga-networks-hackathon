@@ -1,0 +1,327 @@
+{
+	"0_Adventures of Huckleberry Finn, By Mark Twain":
+		{
+			{"snapshot_1": {"size": 201490, "prefix": "html"}},
+			{"snapshot_7": {"size": 202156, "prefix": "html"}},
+		}
+	"0_PostHistory":
+		{
+			{"snapshot_1": {"size": 107073, "prefix": "xml"}},
+			{"snapshot_5": {"size": 111097, "prefix": "xml"}},
+		}
+	"10_pg67098-images-kf8":
+		{
+			{"snapshot_1": {"size": 121454, "prefix": "mobi"}},
+			{"snapshot_4": {"size": 148410, "prefix": "mobi"}},
+		}
+	"10_PostHistory":
+		{
+			{"snapshot_1": {"size": 52508, "prefix": "xml"}},
+			{"snapshot_10": {"size": 62857, "prefix": "xml"}},
+		}
+	"11_PostHistory":
+		{
+			{"snapshot_1": {"size": 94973, "prefix": "xml"}},
+			{"snapshot_8": {"size": 103837, "prefix": "xml"}},
+		}
+	"12_PostHistory":
+		{
+			{"snapshot_1": {"size": 130018, "prefix": "xml"}},
+			{"snapshot_2": {"size": 135123, "prefix": "xml"}},
+		}
+	"13_E":
+		{
+			{"snapshot_1": {"size": 78520, "prefix": "coli"}},
+			{"snapshot_3": {"size": 82723, "prefix": "coli"}},
+		}
+	"13_pg67098-images-kf8":
+		{
+			{"snapshot_1": {"size": 133069, "prefix": "mobi"}},
+			{"snapshot_2": {"size": 172902, "prefix": "mobi"}},
+		}
+	"16_PostHistory":
+		{
+			{"snapshot_1": {"size": 64820, "prefix": "xml"}},
+			{"snapshot_4": {"size": 72304, "prefix": "xml"}},
+			{"snapshot_9": {"size": 84831, "prefix": "xml"}},
+		}
+	"17_PostHistory":
+		{
+			{"snapshot_1": {"size": 108171, "prefix": "xml"}},
+			{"snapshot_6": {"size": 115196, "prefix": "xml"}},
+		}
+	"18_E":
+		{
+			{"snapshot_1": {"size": 118298, "prefix": "coli"}},
+			{"snapshot_3": {"size": 183285, "prefix": "coli"}},
+		}
+	"19_pg67098-images-kf8":
+		{
+			{"snapshot_1": {"size": 180457, "prefix": "mobi"}},
+			{"snapshot_7": {"size": 181448, "prefix": "mobi"}},
+		}
+	"1_E":
+		{
+			{"snapshot_1": {"size": 173166, "prefix": "coli"}},
+			{"snapshot_9": {"size": 222472, "prefix": "coli"}},
+		}
+	"21_E":
+		{
+			{"snapshot_1": {"size": 140503, "prefix": "coli"}},
+			{"snapshot_10": {"size": 192334, "prefix": "coli"}},
+		}
+	"25_PostHistory":
+		{
+			{"snapshot_1": {"size": 132437, "prefix": "xml"}},
+			{"snapshot_6": {"size": 145657, "prefix": "xml"}},
+		}
+	"26_E":
+		{
+			{"snapshot_1": {"size": 83326, "prefix": "coli"}},
+			{"snapshot_9": {"size": 100447, "prefix": "coli"}},
+		}
+	"28_PostHistory":
+		{
+			{"snapshot_1": {"size": 265093, "prefix": "xml"}},
+			{"snapshot_5": {"size": 274290, "prefix": "xml"}},
+		}
+	"29_pg67098-images-kf8":
+		{
+			{"snapshot_1": {"size": 133123, "prefix": "mobi"}},
+			{"snapshot_4": {"size": 146829, "prefix": "mobi"}},
+		}
+	"2_Adventures of Huckleberry Finn, By Mark Twain":
+		{
+			{"snapshot_1": {"size": 198662, "prefix": "html"}},
+			{"snapshot_8": {"size": 199079, "prefix": "html"}},
+			{"snapshot_10": {"size": 199511, "prefix": "html"}},
+		}
+	"2_lcet10":
+		{
+			{"snapshot_1": {"size": 92072, "prefix": "txt"}},
+			{"snapshot_9": {"size": 92687, "prefix": "txt"}},
+		}
+	"31_E":
+		{
+			{"snapshot_1": {"size": 167511, "prefix": "coli"}},
+			{"snapshot_2": {"size": 242831, "prefix": "coli"}},
+		}
+	"31_PostHistory":
+		{
+			{"snapshot_1": {"size": 72876, "prefix": "xml"}},
+			{"snapshot_7": {"size": 79157, "prefix": "xml"}},
+		}
+	"32_PostHistory":
+		{
+			{"snapshot_1": {"size": 67289, "prefix": "xml"}},
+			{"snapshot_6": {"size": 72166, "prefix": "xml"}},
+		}
+	"34_PostHistory":
+		{
+			{"snapshot_1": {"size": 36188, "prefix": "xml"}},
+			{"snapshot_4": {"size": 42157, "prefix": "xml"}},
+		}
+	"37_PostHistory":
+		{
+			{"snapshot_1": {"size": 88912, "prefix": "xml"}},
+			{"snapshot_3": {"size": 94672, "prefix": "xml"}},
+			{"snapshot_6": {"size": 103781, "prefix": "xml"}},
+		}
+	"38_PostHistory":
+		{
+			{"snapshot_1": {"size": 100326, "prefix": "xml"}},
+			{"snapshot_3": {"size": 107509, "prefix": "xml"}},
+		}
+	"39_PostHistory":
+		{
+			{"snapshot_1": {"size": 104458, "prefix": "xml"}},
+			{"snapshot_2": {"size": 114251, "prefix": "xml"}},
+		}
+	"3_Adventures of Huckleberry Finn, By Mark Twain":
+		{
+			{"snapshot_1": {"size": 62992, "prefix": "html"}},
+			{"snapshot_7": {"size": 63421, "prefix": "html"}},
+		}
+	"3_lcet10":
+		{
+			{"snapshot_1": {"size": 69692, "prefix": "txt"}},
+			{"snapshot_10": {"size": 70139, "prefix": "txt"}},
+		}
+	"3_pg67098-images-kf8":
+		{
+			{"snapshot_1": {"size": 180035, "prefix": "mobi"}},
+			{"snapshot_8": {"size": 220257, "prefix": "mobi"}},
+		}
+	"3_PostHistory":
+		{
+			{"snapshot_1": {"size": 121479, "prefix": "xml"}},
+			{"snapshot_4": {"size": 128491, "prefix": "xml"}},
+		}
+	"41_PostHistory":
+		{
+			{"snapshot_1": {"size": 27980, "prefix": "xml"}},
+			{"snapshot_5": {"size": 31069, "prefix": "xml"}},
+		}
+	"42_PostHistory":
+		{
+			{"snapshot_1": {"size": 109974, "prefix": "xml"}},
+			{"snapshot_6": {"size": 117741, "prefix": "xml"}},
+		}
+	"43_PostHistory":
+		{
+			{"snapshot_1": {"size": 89871, "prefix": "xml"}},
+			{"snapshot_7": {"size": 99718, "prefix": "xml"}},
+		}
+	"44_PostHistory":
+		{
+			{"snapshot_1": {"size": 111221, "prefix": "xml"}},
+			{"snapshot_4": {"size": 122369, "prefix": "xml"}},
+		}
+	"47_PostHistory":
+		{
+			{"snapshot_1": {"size": 112116, "prefix": "xml"}},
+			{"snapshot_6": {"size": 120859, "prefix": "xml"}},
+		}
+	"48_PostHistory":
+		{
+			{"snapshot_1": {"size": 159422, "prefix": "xml"}},
+			{"snapshot_7": {"size": 166117, "prefix": "xml"}},
+		}
+	"49_PostHistory":
+		{
+			{"snapshot_1": {"size": 103475, "prefix": "xml"}},
+			{"snapshot_2": {"size": 116171, "prefix": "xml"}},
+		}
+	"50_PostHistory":
+		{
+			{"snapshot_1": {"size": 132548, "prefix": "xml"}},
+			{"snapshot_8": {"size": 138472, "prefix": "xml"}},
+		}
+	"54_PostHistory":
+		{
+			{"snapshot_1": {"size": 37018, "prefix": "xml"}},
+			{"snapshot_6": {"size": 43321, "prefix": "xml"}},
+			{"snapshot_8": {"size": 56546, "prefix": "xml"}},
+		}
+	"5_PostHistory":
+		{
+			{"snapshot_1": {"size": 90823, "prefix": "xml"}},
+			{"snapshot_7": {"size": 97211, "prefix": "xml"}},
+		}
+	"6_PostHistory":
+		{
+			{"snapshot_1": {"size": 71789, "prefix": "xml"}},
+			{"snapshot_3": {"size": 79442, "prefix": "xml"}},
+		}
+	"7_PostHistory":
+		{
+			{"snapshot_1": {"size": 87001, "prefix": "xml"}},
+			{"snapshot_5": {"size": 96930, "prefix": "xml"}},
+		}
+	"8_PostHistory":
+		{
+			{"snapshot_1": {"size": 64823, "prefix": "xml"}},
+			{"snapshot_3": {"size": 69837, "prefix": "xml"}},
+		}
+	"9_PostHistory":
+		{
+			{"snapshot_1": {"size": 98979, "prefix": "xml"}},
+			{"snapshot_9": {"size": 109780, "prefix": "xml"}},
+		}
+	"geo":
+		{
+			{"snapshot_1": {"size": 102400, "prefix": ""}},
+			{"snapshot_7": {"size": 115421, "prefix": ""}},
+			{"snapshot_8": {"size": 123785, "prefix": ""}},
+		}
+	"paper6":
+		{
+			{"snapshot_1": {"size": 38105, "prefix": ""}},
+			{"snapshot_6": {"size": 52344, "prefix": ""}},
+		}
+	"retrosupply-jLwVAUtLOAQ-unsplash":
+		{
+			{"snapshot_1": {"size": 2014866, "prefix": "jpg"}},
+			{"snapshot_9": {"size": 13894236, "prefix": "png"}},
+		}
+	"robert-tudor-BydNJ_dOVYg-unsplash":
+		{
+			{"snapshot_1": {"size": 3047419, "prefix": "jpg"}},
+			{"snapshot_8": {"size": 1747787, "prefix": "jpg"}},
+		}
+	"0_lcet10":
+		{
+			{"snapshot_2": {"size": 142405, "prefix": "txt"}},
+			{"snapshot_10": {"size": 142906, "prefix": "txt"}},
+		}
+	"30_pg67098-images-kf8":
+		{
+			{"snapshot_2": {"size": 61995, "prefix": "mobi"}},
+		}
+	"5_E":
+		{
+			{"snapshot_3": {"size": 165104, "prefix": "coli"}},
+		}
+	"The Project Gutenberg eBook of Pygmalion, by George Bernard Shaw":
+		{
+			{"snapshot_3": {"size": 250081, "prefix": "html"}},
+			{"snapshot_5": {"size": 250443, "prefix": "html"}},
+		}
+	"2_PostHistory":
+		{
+			{"snapshot_4": {"size": 155445, "prefix": "xml"}},
+		}
+	"35_E":
+		{
+			{"snapshot_4": {"size": 72097, "prefix": "coli"}},
+		}
+	"46_PostHistory":
+		{
+			{"snapshot_5": {"size": 287389, "prefix": "xml"}},
+		}
+	"bib":
+		{
+			{"snapshot_5": {"size": 111261, "prefix": ""}},
+		}
+	"25_E":
+		{
+			{"snapshot_6": {"size": 74804, "prefix": "coli"}},
+		}
+	"53_PostHistory":
+		{
+			{"snapshot_6": {"size": 95873, "prefix": "xml"}},
+		}
+	"14_E":
+		{
+			{"snapshot_7": {"size": 143203, "prefix": "coli"}},
+		}
+	"17_E":
+		{
+			{"snapshot_7": {"size": 72366, "prefix": "coli"}},
+		}
+	"29_PostHistory":
+		{
+			{"snapshot_8": {"size": 70199, "prefix": "xml"}},
+		}
+	"stackoverflow":
+		{
+			{"snapshot_8": {"size": 919867, "prefix": "com-Tags7z"}},
+			{"snapshot_10": {"size": 1038459, "prefix": "com-Tags7z"}},
+		}
+	"27_pg67098-images-kf8":
+		{
+			{"snapshot_9": {"size": 193022, "prefix": "mobi"}},
+		}
+	"29_E":
+		{
+			{"snapshot_9": {"size": 169312, "prefix": "coli"}},
+		}
+	"5_pg67098-images-kf8":
+		{
+			{"snapshot_10": {"size": 130307, "prefix": "mobi"}},
+		}
+	"5_pi":
+		{
+			{"snapshot_10": {"size": 172950, "prefix": "txt"}},
+		}
+}

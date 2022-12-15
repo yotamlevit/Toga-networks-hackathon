@@ -1,0 +1,568 @@
+{
+	"0_pg69477-images-kf8":
+		{
+			{"snapshot_1": {"size": 53691, "prefix": "mobi"}},
+			{"snapshot_5": {"size": 71264, "prefix": "mobi"}},
+		}
+	"0_sherlock":
+		{
+			{"snapshot_1": {"size": 173649, "prefix": "txt"}},
+			{"snapshot_10": {"size": 174611, "prefix": "txt"}},
+		}
+	"0_Users":
+		{
+			{"snapshot_1": {"size": 201268, "prefix": "xml"}},
+			{"snapshot_8": {"size": 200880, "prefix": "xml"}},
+		}
+	"10_sherlock":
+		{
+			{"snapshot_1": {"size": 196163, "prefix": "txt"}},
+			{"snapshot_6": {"size": 196726, "prefix": "txt"}},
+			{"snapshot_9": {"size": 197338, "prefix": "txt"}},
+		}
+	"11_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 90170, "prefix": "html"}},
+			{"snapshot_2": {"size": 90580, "prefix": "html"}},
+			{"snapshot_9": {"size": 91003, "prefix": "html"}},
+		}
+	"11_sherlock":
+		{
+			{"snapshot_1": {"size": 34909, "prefix": "txt"}},
+			{"snapshot_3": {"size": 33203, "prefix": "txt"}},
+		}
+	"11_Users":
+		{
+			{"snapshot_1": {"size": 80904, "prefix": "xml"}},
+			{"snapshot_10": {"size": 80612, "prefix": "xml"}},
+		}
+	"12_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 164833, "prefix": "html"}},
+			{"snapshot_5": {"size": 159616, "prefix": "html"}},
+		}
+	"12_sherlock":
+		{
+			{"snapshot_1": {"size": 104732, "prefix": "txt"}},
+			{"snapshot_5": {"size": 105180, "prefix": "txt"}},
+			{"snapshot_7": {"size": 103096, "prefix": "txt"}},
+		}
+	"13_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 123034, "prefix": "html"}},
+			{"snapshot_3": {"size": 123707, "prefix": "html"}},
+		}
+	"13_sherlock":
+		{
+			{"snapshot_1": {"size": 113366, "prefix": "txt"}},
+			{"snapshot_5": {"size": 113993, "prefix": "txt"}},
+		}
+	"13_Users":
+		{
+			{"snapshot_1": {"size": 147841, "prefix": "xml"}},
+			{"snapshot_3": {"size": 152003, "prefix": "xml"}},
+			{"snapshot_8": {"size": 151251, "prefix": "xml"}},
+		}
+	"14_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 73039, "prefix": "html"}},
+			{"snapshot_2": {"size": 73559, "prefix": "html"}},
+			{"snapshot_5": {"size": 74112, "prefix": "html"}},
+		}
+	"14_sherlock":
+		{
+			{"snapshot_1": {"size": 70210, "prefix": "txt"}},
+			{"snapshot_5": {"size": 68973, "prefix": "txt"}},
+		}
+	"14_Users":
+		{
+			{"snapshot_1": {"size": 114474, "prefix": "xml"}},
+			{"snapshot_5": {"size": 117368, "prefix": "xml"}},
+			{"snapshot_8": {"size": 116894, "prefix": "xml"}},
+		}
+	"15_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 58468, "prefix": "html"}},
+			{"snapshot_4": {"size": 58939, "prefix": "html"}},
+			{"snapshot_6": {"size": 56922, "prefix": "html"}},
+		}
+	"15_sherlock":
+		{
+			{"snapshot_1": {"size": 200368, "prefix": "txt"}},
+			{"snapshot_10": {"size": 196935, "prefix": "txt"}},
+		}
+	"16_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 146751, "prefix": "html"}},
+			{"snapshot_7": {"size": 141896, "prefix": "html"}},
+		}
+	"16_sherlock":
+		{
+			{"snapshot_1": {"size": 138152, "prefix": "txt"}},
+			{"snapshot_10": {"size": 138605, "prefix": "txt"}},
+		}
+	"17_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 77514, "prefix": "html"}},
+			{"snapshot_4": {"size": 75153, "prefix": "html"}},
+		}
+	"17_sherlock":
+		{
+			{"snapshot_1": {"size": 166738, "prefix": "txt"}},
+			{"snapshot_8": {"size": 163805, "prefix": "txt"}},
+		}
+	"18_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 108306, "prefix": "html"}},
+			{"snapshot_6": {"size": 105106, "prefix": "html"}},
+		}
+	"18_sherlock":
+		{
+			{"snapshot_1": {"size": 97249, "prefix": "txt"}},
+			{"snapshot_9": {"size": 95584, "prefix": "txt"}},
+		}
+	"1_Badges":
+		{
+			{"snapshot_1": {"size": 116077, "prefix": "xml"}},
+			{"snapshot_3": {"size": 115032, "prefix": "xml"}},
+		}
+	"1_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 158725, "prefix": "html"}},
+			{"snapshot_4": {"size": 159271, "prefix": "html"}},
+		}
+	"1_pic":
+		{
+			{"snapshot_1": {"size": 175859, "prefix": ""}},
+			{"snapshot_7": {"size": 243018, "prefix": ""}},
+		}
+	"1_plrabn12":
+		{
+			{"snapshot_1": {"size": 77531, "prefix": "txt"}},
+			{"snapshot_2": {"size": 77976, "prefix": "txt"}},
+			{"snapshot_4": {"size": 76254, "prefix": "txt"}},
+		}
+	"1_sherlock":
+		{
+			{"snapshot_1": {"size": 195846, "prefix": "txt"}},
+			{"snapshot_6": {"size": 197677, "prefix": "txt"}},
+		}
+	"1_Users":
+		{
+			{"snapshot_1": {"size": 200977, "prefix": "xml"}},
+			{"snapshot_7": {"size": 200520, "prefix": "xml"}},
+		}
+	"20_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 15180, "prefix": "html"}},
+			{"snapshot_3": {"size": 14747, "prefix": "html"}},
+		}
+	"20_sherlock":
+		{
+			{"snapshot_1": {"size": 158109, "prefix": "txt"}},
+			{"snapshot_5": {"size": 155317, "prefix": "txt"}},
+		}
+	"21_sherlock":
+		{
+			{"snapshot_1": {"size": 81154, "prefix": "txt"}},
+			{"snapshot_8": {"size": 81806, "prefix": "txt"}},
+			{"snapshot_9": {"size": 82146, "prefix": "txt"}},
+		}
+	"22_sherlock":
+		{
+			{"snapshot_1": {"size": 48929, "prefix": "txt"}},
+			{"snapshot_6": {"size": 46453, "prefix": "txt"}},
+		}
+	"24_sherlock":
+		{
+			{"snapshot_1": {"size": 70358, "prefix": "txt"}},
+			{"snapshot_4": {"size": 68799, "prefix": "txt"}},
+		}
+	"25_sherlock":
+		{
+			{"snapshot_1": {"size": 93291, "prefix": "txt"}},
+			{"snapshot_5": {"size": 93796, "prefix": "txt"}},
+			{"snapshot_6": {"size": 91859, "prefix": "txt"}},
+		}
+	"27_sherlock":
+		{
+			{"snapshot_1": {"size": 54398, "prefix": "txt"}},
+			{"snapshot_6": {"size": 54919, "prefix": "txt"}},
+		}
+	"2_Badges":
+		{
+			{"snapshot_1": {"size": 75184, "prefix": "xml"}},
+			{"snapshot_3": {"size": 76321, "prefix": "xml"}},
+			{"snapshot_7": {"size": 75632, "prefix": "xml"}},
+		}
+	"2_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 47683, "prefix": "html"}},
+			{"snapshot_5": {"size": 46236, "prefix": "html"}},
+		}
+	"2_plrabn12":
+		{
+			{"snapshot_1": {"size": 124213, "prefix": "txt"}},
+			{"snapshot_6": {"size": 121445, "prefix": "txt"}},
+		}
+	"2_Users":
+		{
+			{"snapshot_1": {"size": 63960, "prefix": "xml"}},
+			{"snapshot_2": {"size": 71748, "prefix": "xml"}},
+			{"snapshot_6": {"size": 77644, "prefix": "xml"}},
+			{"snapshot_9": {"size": 77224, "prefix": "xml"}},
+		}
+	"31_sherlock":
+		{
+			{"snapshot_1": {"size": 102832, "prefix": "txt"}},
+			{"snapshot_4": {"size": 103153, "prefix": "txt"}},
+			{"snapshot_8": {"size": 101109, "prefix": "txt"}},
+		}
+	"35_sherlock":
+		{
+			{"snapshot_1": {"size": 108251, "prefix": "txt"}},
+			{"snapshot_3": {"size": 106074, "prefix": "txt"}},
+		}
+	"36_sherlock":
+		{
+			{"snapshot_1": {"size": 172721, "prefix": "txt"}},
+			{"snapshot_7": {"size": 169181, "prefix": "txt"}},
+		}
+	"39_sherlock":
+		{
+			{"snapshot_1": {"size": 145422, "prefix": "txt"}},
+			{"snapshot_6": {"size": 142534, "prefix": "txt"}},
+		}
+	"3_Badges":
+		{
+			{"snapshot_1": {"size": 134467, "prefix": "xml"}},
+			{"snapshot_6": {"size": 135562, "prefix": "xml"}},
+			{"snapshot_9": {"size": 134342, "prefix": "xml"}},
+		}
+	"3_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 75942, "prefix": "html"}},
+			{"snapshot_2": {"size": 76516, "prefix": "html"}},
+			{"snapshot_3": {"size": 74445, "prefix": "html"}},
+		}
+	"3_plrabn12":
+		{
+			{"snapshot_1": {"size": 104435, "prefix": "txt"}},
+			{"snapshot_8": {"size": 104881, "prefix": "txt"}},
+			{"snapshot_9": {"size": 105326, "prefix": "txt"}},
+			{"snapshot_10": {"size": 105740, "prefix": "txt"}},
+		}
+	"3_sherlock":
+		{
+			{"snapshot_1": {"size": 150855, "prefix": "txt"}},
+			{"snapshot_2": {"size": 151519, "prefix": "txt"}},
+		}
+	"40_sherlock":
+		{
+			{"snapshot_1": {"size": 133948, "prefix": "txt"}},
+			{"snapshot_6": {"size": 131212, "prefix": "txt"}},
+		}
+	"42_sherlock":
+		{
+			{"snapshot_1": {"size": 87890, "prefix": "txt"}},
+			{"snapshot_3": {"size": 88250, "prefix": "txt"}},
+			{"snapshot_5": {"size": 88739, "prefix": "txt"}},
+		}
+	"43_sherlock":
+		{
+			{"snapshot_1": {"size": 70453, "prefix": "txt"}},
+			{"snapshot_9": {"size": 70999, "prefix": "txt"}},
+		}
+	"44_sherlock":
+		{
+			{"snapshot_1": {"size": 119390, "prefix": "txt"}},
+			{"snapshot_9": {"size": 116857, "prefix": "txt"}},
+		}
+	"45_sherlock":
+		{
+			{"snapshot_1": {"size": 119656, "prefix": "txt"}},
+			{"snapshot_3": {"size": 120160, "prefix": "txt"}},
+		}
+	"46_sherlock":
+		{
+			{"snapshot_1": {"size": 99714, "prefix": "txt"}},
+			{"snapshot_4": {"size": 97709, "prefix": "txt"}},
+		}
+	"48_sherlock":
+		{
+			{"snapshot_1": {"size": 83448, "prefix": "txt"}},
+			{"snapshot_9": {"size": 81781, "prefix": "txt"}},
+		}
+	"49_sherlock":
+		{
+			{"snapshot_1": {"size": 94219, "prefix": "txt"}},
+			{"snapshot_10": {"size": 92323, "prefix": "txt"}},
+		}
+	"4_sherlock":
+		{
+			{"snapshot_1": {"size": 212619, "prefix": "txt"}},
+			{"snapshot_3": {"size": 208975, "prefix": "txt"}},
+		}
+	"4_Users":
+		{
+			{"snapshot_1": {"size": 65131, "prefix": "xml"}},
+			{"snapshot_5": {"size": 64965, "prefix": "xml"}},
+		}
+	"50_sherlock":
+		{
+			{"snapshot_1": {"size": 186441, "prefix": "txt"}},
+			{"snapshot_6": {"size": 186906, "prefix": "txt"}},
+			{"snapshot_9": {"size": 183010, "prefix": "txt"}},
+		}
+	"51_sherlock":
+		{
+			{"snapshot_1": {"size": 151166, "prefix": "txt"}},
+			{"snapshot_7": {"size": 151693, "prefix": "txt"}},
+			{"snapshot_8": {"size": 148532, "prefix": "txt"}},
+		}
+	"52_sherlock":
+		{
+			{"snapshot_1": {"size": 139070, "prefix": "txt"}},
+			{"snapshot_6": {"size": 136167, "prefix": "txt"}},
+		}
+	"54_sherlock":
+		{
+			{"snapshot_1": {"size": 24296, "prefix": "txt"}},
+			{"snapshot_5": {"size": 24400, "prefix": "txt"}},
+			{"snapshot_9": {"size": 24510, "prefix": "txt"}},
+		}
+	"55_sherlock":
+		{
+			{"snapshot_1": {"size": 100990, "prefix": "txt"}},
+			{"snapshot_6": {"size": 102506, "prefix": "txt"}},
+		}
+	"5_Badges":
+		{
+			{"snapshot_1": {"size": 123889, "prefix": "xml"}},
+			{"snapshot_3": {"size": 124984, "prefix": "xml"}},
+			{"snapshot_4": {"size": 123850, "prefix": "xml"}},
+		}
+	"5_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 122676, "prefix": "html"}},
+			{"snapshot_7": {"size": 119882, "prefix": "html"}},
+		}
+	"5_Users":
+		{
+			{"snapshot_1": {"size": 70143, "prefix": "xml"}},
+			{"snapshot_3": {"size": 69994, "prefix": "xml"}},
+		}
+	"6_Badges":
+		{
+			{"snapshot_1": {"size": 175229, "prefix": "xml"}},
+			{"snapshot_10": {"size": 173642, "prefix": "xml"}},
+		}
+	"6_sherlock":
+		{
+			{"snapshot_1": {"size": 68282, "prefix": "txt"}},
+			{"snapshot_5": {"size": 68825, "prefix": "txt"}},
+		}
+	"6_Users":
+		{
+			{"snapshot_1": {"size": 100722, "prefix": "xml"}},
+			{"snapshot_6": {"size": 100486, "prefix": "xml"}},
+		}
+	"7_Badges":
+		{
+			{"snapshot_1": {"size": 66531, "prefix": "xml"}},
+			{"snapshot_9": {"size": 65934, "prefix": "xml"}},
+		}
+	"7_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 161354, "prefix": "html"}},
+			{"snapshot_4": {"size": 162078, "prefix": "html"}},
+			{"snapshot_8": {"size": 158960, "prefix": "html"}},
+		}
+	"8_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 196886, "prefix": "html"}},
+			{"snapshot_5": {"size": 191825, "prefix": "html"}},
+		}
+	"8_sherlock":
+		{
+			{"snapshot_1": {"size": 166817, "prefix": "txt"}},
+			{"snapshot_7": {"size": 167340, "prefix": "txt"}},
+			{"snapshot_8": {"size": 167984, "prefix": "txt"}},
+			{"snapshot_9": {"size": 168498, "prefix": "txt"}},
+		}
+	"9_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_1": {"size": 181203, "prefix": "html"}},
+			{"snapshot_6": {"size": 175293, "prefix": "html"}},
+		}
+	"9_sherlock":
+		{
+			{"snapshot_1": {"size": 159204, "prefix": "txt"}},
+			{"snapshot_3": {"size": 159741, "prefix": "txt"}},
+			{"snapshot_5": {"size": 156971, "prefix": "txt"}},
+		}
+	"9_Users":
+		{
+			{"snapshot_1": {"size": 189099, "prefix": "xml"}},
+			{"snapshot_4": {"size": 192290, "prefix": "xml"}},
+			{"snapshot_5": {"size": 198132, "prefix": "xml"}},
+		}
+	"asyoulik":
+		{
+			{"snapshot_1": {"size": 125179, "prefix": "txt"}},
+			{"snapshot_7": {"size": 129693, "prefix": "txt"}},
+			{"snapshot_10": {"size": 130032, "prefix": "txt"}},
+		}
+	"grammar":
+		{
+			{"snapshot_1": {"size": 3721, "prefix": "lsp"}},
+			{"snapshot_6": {"size": 4477, "prefix": "lsp"}},
+		}
+	"Hervé_Renard":
+		{
+			{"snapshot_1": {"size": 426224, "prefix": "pdf"}},
+			{"snapshot_4": {"size": 207500, "prefix": "pdf"}},
+		}
+	"Madama_Butterfly":
+		{
+			{"snapshot_1": {"size": 1076319, "prefix": "pdf"}},
+			{"snapshot_2": {"size": 335920, "prefix": "pdf"}},
+			{"snapshot_7": {"size": 312, "prefix": "pdf"}},
+			{"snapshot_8": {"size": 952, "prefix": "pdf"}},
+		}
+	"my-life-through-a-lens-bq31L0jQAjU-unsplash":
+		{
+			{"snapshot_1": {"size": 1268459, "prefix": "jpg"}},
+			{"snapshot_5": {"size": 3161052, "prefix": "jpg"}},
+		}
+	"nick-fewings-x2WLl7ufuEw-unsplash":
+		{
+			{"snapshot_1": {"size": 1064636, "prefix": "jpg"}},
+			{"snapshot_4": {"size": 3692637, "prefix": "jpg"}},
+		}
+	"osman-rana-dI9KhXi0ooE-unsplash":
+		{
+			{"snapshot_1": {"size": 122300, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 4030968, "prefix": "jpg"}},
+		}
+	"patrick-fore-YS_51ncQL5o-unsplash":
+		{
+			{"snapshot_1": {"size": 1654705, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 9357420, "prefix": "jpg"}},
+		}
+	"pineapple-supply-co-iDwGYbnCvss-unsplash":
+		{
+			{"snapshot_1": {"size": 28800574, "prefix": "png"}},
+			{"snapshot_5": {"size": 72037715, "prefix": "png"}},
+		}
+	"rhondak-native-florida-folk-artist-_Yc7OtfFn-0-unsplash":
+		{
+			{"snapshot_1": {"size": 1671306, "prefix": "jpg"}},
+			{"snapshot_5": {"size": 1366497, "prefix": "jpg"}},
+			{"snapshot_6": {"size": 1360450, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 3601821, "prefix": "jpg"}},
+		}
+	"roberto-shumski-2eKM8nKtyLg-unsplash":
+		{
+			{"snapshot_1": {"size": 1657854, "prefix": "jpg"}},
+			{"snapshot_4": {"size": 12022172, "prefix": "jpg"}},
+		}
+	"tyler-easton-faixctm2YRQ-unsplash":
+		{
+			{"snapshot_1": {"size": 980624, "prefix": "jpg"}},
+			{"snapshot_5": {"size": 4948974, "prefix": "jpg"}},
+		}
+	"vicko-mozara-m82uh_vamhg-unsplash":
+		{
+			{"snapshot_1": {"size": 482974, "prefix": "jpg"}},
+			{"snapshot_4": {"size": 7143217, "prefix": "jpg"}},
+		}
+	"5_book1":
+		{
+			{"snapshot_2": {"size": 74453, "prefix": ""}},
+			{"snapshot_10": {"size": 87220, "prefix": ""}},
+		}
+	"The Project Gutenberg eBook of Oliver Twist, by Charles Dickens":
+		{
+			{"snapshot_2": {"size": 1011026, "prefix": "html"}},
+			{"snapshot_10": {"size": 1011440, "prefix": "html"}},
+		}
+	"29_sherlock":
+		{
+			{"snapshot_3": {"size": 144002, "prefix": "txt"}},
+		}
+	"sam-moghadam-khamseh-wbjtXaOH1ac-unsplash":
+		{
+			{"snapshot_3": {"size": 3505753, "prefix": "jpg"}},
+			{"snapshot_9": {"size": 22198530, "prefix": "png"}},
+		}
+	"10_Users":
+		{
+			{"snapshot_4": {"size": 83282, "prefix": "xml"}},
+			{"snapshot_7": {"size": 88637, "prefix": "xml"}},
+			{"snapshot_9": {"size": 88357, "prefix": "xml"}},
+		}
+	"38_sherlock":
+		{
+			{"snapshot_4": {"size": 183426, "prefix": "txt"}},
+		}
+	"34_sherlock":
+		{
+			{"snapshot_5": {"size": 159393, "prefix": "txt"}},
+			{"snapshot_6": {"size": 156105, "prefix": "txt"}},
+		}
+	"progp":
+		{
+			{"snapshot_5": {"size": 49379, "prefix": ""}},
+		}
+	"32_sherlock":
+		{
+			{"snapshot_6": {"size": 139381, "prefix": "txt"}},
+			{"snapshot_9": {"size": 136467, "prefix": "txt"}},
+		}
+	"7_sherlock":
+		{
+			{"snapshot_6": {"size": 184786, "prefix": "txt"}},
+			{"snapshot_7": {"size": 185330, "prefix": "txt"}},
+		}
+	"2_sherlock":
+		{
+			{"snapshot_7": {"size": 217179, "prefix": "txt"}},
+		}
+	"6_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_7": {"size": 192464, "prefix": "html"}},
+			{"snapshot_10": {"size": 187181, "prefix": "html"}},
+		}
+	"0_Don Quixote, by Miguel de Cervantes":
+		{
+			{"snapshot_8": {"size": 122054, "prefix": "html"}},
+			{"snapshot_9": {"size": 122682, "prefix": "html"}},
+		}
+	"tirza-van-dijk-cNGUw-CEsp0-unsplash":
+		{
+			{"snapshot_8": {"size": 1375760, "prefix": "jpg"}},
+			{"snapshot_10": {"size": 7969336, "prefix": "jpg"}},
+		}
+	"23_sherlock":
+		{
+			{"snapshot_9": {"size": 80674, "prefix": "txt"}},
+		}
+	"53_sherlock":
+		{
+			{"snapshot_9": {"size": 24242, "prefix": "txt"}},
+			{"snapshot_10": {"size": 24344, "prefix": "txt"}},
+		}
+	"33_sherlock":
+		{
+			{"snapshot_10": {"size": 112319, "prefix": "txt"}},
+		}
+	"47_sherlock":
+		{
+			{"snapshot_10": {"size": 48033, "prefix": "txt"}},
+		}
+	"important_note":
+		{
+			{"snapshot_10": {"size": 946, "prefix": "txt"}},
+		}
+}

@@ -1,0 +1,504 @@
+{
+	"0_kennedy":
+		{
+			{"snapshot_1": {"size": 127449, "prefix": "txt"}},
+			{"snapshot_7": {"size": 127351, "prefix": "htntxt"}},
+		}
+	"0_pg36-images-kf8":
+		{
+			{"snapshot_1": {"size": 175294, "prefix": "mobi"}},
+			{"snapshot_3": {"size": 304555, "prefix": "mobi"}},
+			{"snapshot_10": {"size": 515498, "prefix": "mobi"}},
+		}
+	"0_Posts":
+		{
+			{"snapshot_1": {"size": 122599, "prefix": "xml"}},
+			{"snapshot_8": {"size": 132863, "prefix": "xml"}},
+			{"snapshot_10": {"size": 141092, "prefix": "xml"}},
+		}
+	"0_ptt5":
+		{
+			{"snapshot_1": {"size": 133289, "prefix": ""}},
+			{"snapshot_10": {"size": 133289, "prefix": "htn"}},
+		}
+	"0_world192":
+		{
+			{"snapshot_1": {"size": 120771, "prefix": "txt"}},
+			{"snapshot_8": {"size": 117640, "prefix": "htntxt"}},
+		}
+	"10_Comments":
+		{
+			{"snapshot_1": {"size": 78891, "prefix": "xml"}},
+			{"snapshot_10": {"size": 84187, "prefix": "xml"}},
+		}
+	"10_world192":
+		{
+			{"snapshot_1": {"size": 147690, "prefix": "txt"}},
+			{"snapshot_9": {"size": 143874, "prefix": "htntxt"}},
+		}
+	"11_Posts":
+		{
+			{"snapshot_1": {"size": 198002, "prefix": "xml"}},
+			{"snapshot_4": {"size": 211149, "prefix": "xml"}},
+		}
+	"11_world192":
+		{
+			{"snapshot_1": {"size": 89928, "prefix": "txt"}},
+			{"snapshot_2": {"size": 90360, "prefix": "txt"}},
+		}
+	"12_Posts":
+		{
+			{"snapshot_1": {"size": 79652, "prefix": "xml"}},
+			{"snapshot_7": {"size": 87643, "prefix": "xml"}},
+		}
+	"12_world192":
+		{
+			{"snapshot_1": {"size": 83885, "prefix": "txt"}},
+			{"snapshot_3": {"size": 84318, "prefix": "txt"}},
+			{"snapshot_9": {"size": 84767, "prefix": "txt"}},
+		}
+	"13_Posts":
+		{
+			{"snapshot_1": {"size": 118336, "prefix": "xml"}},
+			{"snapshot_8": {"size": 118241, "prefix": "htnxml"}},
+		}
+	"13_world192":
+		{
+			{"snapshot_1": {"size": 167766, "prefix": "txt"}},
+			{"snapshot_2": {"size": 168160, "prefix": "txt"}},
+		}
+	"14_bible":
+		{
+			{"snapshot_1": {"size": 50859, "prefix": "txt"}},
+			{"snapshot_7": {"size": 50345, "prefix": "htntxt"}},
+		}
+	"14_world192":
+		{
+			{"snapshot_1": {"size": 52332, "prefix": "txt"}},
+			{"snapshot_2": {"size": 52716, "prefix": "txt"}},
+		}
+	"15_Posts":
+		{
+			{"snapshot_1": {"size": 106615, "prefix": "xml"}},
+			{"snapshot_6": {"size": 128129, "prefix": "xml"}},
+		}
+	"15_world192":
+		{
+			{"snapshot_1": {"size": 129071, "prefix": "txt"}},
+			{"snapshot_9": {"size": 129484, "prefix": "txt"}},
+		}
+	"16_world192":
+		{
+			{"snapshot_1": {"size": 186759, "prefix": "txt"}},
+			{"snapshot_8": {"size": 187212, "prefix": "txt"}},
+		}
+	"17_bible":
+		{
+			{"snapshot_1": {"size": 34491, "prefix": "txt"}},
+			{"snapshot_2": {"size": 35370, "prefix": "txt"}},
+		}
+	"18_Posts":
+		{
+			{"snapshot_1": {"size": 165994, "prefix": "xml"}},
+			{"snapshot_9": {"size": 165875, "prefix": "htnxml"}},
+		}
+	"19_bible":
+		{
+			{"snapshot_1": {"size": 107416, "prefix": "txt"}},
+			{"snapshot_7": {"size": 108988, "prefix": "txt"}},
+			{"snapshot_8": {"size": 109677, "prefix": "htntxt"}},
+		}
+	"19_Posts":
+		{
+			{"snapshot_1": {"size": 151245, "prefix": "xml"}},
+			{"snapshot_4": {"size": 171045, "prefix": "xml"}},
+			{"snapshot_6": {"size": 181263, "prefix": "xml"}},
+			{"snapshot_10": {"size": 189917, "prefix": "xml"}},
+		}
+	"1_ptt5":
+		{
+			{"snapshot_1": {"size": 68640, "prefix": ""}},
+			{"snapshot_7": {"size": 68640, "prefix": "htn"}},
+		}
+	"1_Votes":
+		{
+			{"snapshot_1": {"size": 181769, "prefix": "xml"}},
+			{"snapshot_3": {"size": 182651, "prefix": "xml"}},
+			{"snapshot_7": {"size": 183532, "prefix": "xml"}},
+			{"snapshot_8": {"size": 181452, "prefix": "htnxml"}},
+		}
+	"20_bible":
+		{
+			{"snapshot_1": {"size": 228257, "prefix": "txt"}},
+			{"snapshot_8": {"size": 230214, "prefix": "txt"}},
+		}
+	"24_bible":
+		{
+			{"snapshot_1": {"size": 139069, "prefix": "txt"}},
+			{"snapshot_10": {"size": 140230, "prefix": "txt"}},
+		}
+	"26_bible":
+		{
+			{"snapshot_1": {"size": 78466, "prefix": "txt"}},
+			{"snapshot_9": {"size": 77848, "prefix": "htntxt"}},
+		}
+	"28_bible":
+		{
+			{"snapshot_1": {"size": 175718, "prefix": "txt"}},
+			{"snapshot_6": {"size": 176932, "prefix": "txt"}},
+			{"snapshot_9": {"size": 178332, "prefix": "txt"}},
+		}
+	"28_Posts":
+		{
+			{"snapshot_1": {"size": 94351, "prefix": "xml"}},
+			{"snapshot_10": {"size": 94283, "prefix": "htnxml"}},
+		}
+	"29_bible":
+		{
+			{"snapshot_1": {"size": 49878, "prefix": "txt"}},
+			{"snapshot_8": {"size": 49455, "prefix": "htntxt"}},
+		}
+	"29_Posts":
+		{
+			{"snapshot_1": {"size": 4613, "prefix": "xml"}},
+			{"snapshot_6": {"size": 8526, "prefix": "xml"}},
+		}
+	"2_Comments":
+		{
+			{"snapshot_1": {"size": 191665, "prefix": "xml"}},
+			{"snapshot_2": {"size": 195083, "prefix": "xml"}},
+			{"snapshot_3": {"size": 198478, "prefix": "xml"}},
+			{"snapshot_9": {"size": 201753, "prefix": "htnxml"}},
+		}
+	"2_kennedy":
+		{
+			{"snapshot_1": {"size": 185355, "prefix": "txt"}},
+			{"snapshot_4": {"size": 198307, "prefix": "txt"}},
+		}
+	"2_pg36-images-kf8":
+		{
+			{"snapshot_1": {"size": 151759, "prefix": "mobi"}},
+			{"snapshot_8": {"size": 151759, "prefix": "htnmobi"}},
+		}
+	"2_world192":
+		{
+			{"snapshot_1": {"size": 148338, "prefix": "txt"}},
+			{"snapshot_6": {"size": 148811, "prefix": "txt"}},
+			{"snapshot_7": {"size": 144932, "prefix": "htntxt"}},
+		}
+	"30_bible":
+		{
+			{"snapshot_1": {"size": 109690, "prefix": "txt"}},
+			{"snapshot_8": {"size": 110919, "prefix": "txt"}},
+		}
+	"31_bible":
+		{
+			{"snapshot_1": {"size": 179166, "prefix": "txt"}},
+			{"snapshot_7": {"size": 177682, "prefix": "htntxt"}},
+		}
+	"32_bible":
+		{
+			{"snapshot_1": {"size": 51008, "prefix": "txt"}},
+			{"snapshot_3": {"size": 52558, "prefix": "txt"}},
+			{"snapshot_9": {"size": 52221, "prefix": "htntxt"}},
+		}
+	"3_bible":
+		{
+			{"snapshot_1": {"size": 197828, "prefix": "txt"}},
+			{"snapshot_5": {"size": 199272, "prefix": "txt"}},
+			{"snapshot_6": {"size": 200915, "prefix": "txt"}},
+		}
+	"3_book2":
+		{
+			{"snapshot_1": {"size": 97751, "prefix": ""}},
+			{"snapshot_8": {"size": 98629, "prefix": ""}},
+			{"snapshot_10": {"size": 98629, "prefix": "htn"}},
+		}
+	"3_ptt5":
+		{
+			{"snapshot_1": {"size": 83783, "prefix": ""}},
+			{"snapshot_2": {"size": 103228, "prefix": ""}},
+		}
+	"4_Posts":
+		{
+			{"snapshot_1": {"size": 165074, "prefix": "xml"}},
+			{"snapshot_10": {"size": 164962, "prefix": "htnxml"}},
+		}
+	"4_Votes":
+		{
+			{"snapshot_1": {"size": 82475, "prefix": "xml"}},
+			{"snapshot_4": {"size": 83375, "prefix": "xml"}},
+		}
+	"5_bible":
+		{
+			{"snapshot_1": {"size": 101539, "prefix": "txt"}},
+			{"snapshot_9": {"size": 102606, "prefix": "txt"}},
+		}
+	"5_Posts":
+		{
+			{"snapshot_1": {"size": 35529, "prefix": "xml"}},
+			{"snapshot_9": {"size": 42951, "prefix": "xml"}},
+		}
+	"5_Votes":
+		{
+			{"snapshot_1": {"size": 57042, "prefix": "xml"}},
+			{"snapshot_5": {"size": 57942, "prefix": "xml"}},
+			{"snapshot_8": {"size": 57298, "prefix": "htnxml"}},
+		}
+	"5_world192":
+		{
+			{"snapshot_1": {"size": 130470, "prefix": "txt"}},
+			{"snapshot_3": {"size": 130977, "prefix": "txt"}},
+			{"snapshot_8": {"size": 127513, "prefix": "htntxt"}},
+		}
+	"6_bible":
+		{
+			{"snapshot_1": {"size": 215850, "prefix": "txt"}},
+			{"snapshot_5": {"size": 217048, "prefix": "txt"}},
+		}
+	"6_Comments":
+		{
+			{"snapshot_1": {"size": 55476, "prefix": "xml"}},
+			{"snapshot_10": {"size": 59502, "prefix": "xml"}},
+		}
+	"6_Votes":
+		{
+			{"snapshot_1": {"size": 72963, "prefix": "xml"}},
+			{"snapshot_10": {"size": 72152, "prefix": "htnxml"}},
+		}
+	"7_bible":
+		{
+			{"snapshot_1": {"size": 73284, "prefix": "txt"}},
+			{"snapshot_5": {"size": 75293, "prefix": "txt"}},
+			{"snapshot_8": {"size": 77026, "prefix": "txt"}},
+		}
+	"7_Comments":
+		{
+			{"snapshot_1": {"size": 127387, "prefix": "xml"}},
+			{"snapshot_2": {"size": 130833, "prefix": "xml"}},
+			{"snapshot_8": {"size": 130447, "prefix": "htnxml"}},
+		}
+	"7_Votes":
+		{
+			{"snapshot_1": {"size": 71711, "prefix": "xml"}},
+			{"snapshot_2": {"size": 72611, "prefix": "xml"}},
+			{"snapshot_7": {"size": 71804, "prefix": "htnxml"}},
+		}
+	"7_world192":
+		{
+			{"snapshot_1": {"size": 164526, "prefix": "txt"}},
+			{"snapshot_5": {"size": 164975, "prefix": "txt"}},
+			{"snapshot_8": {"size": 160583, "prefix": "htntxt"}},
+		}
+	"8_bible":
+		{
+			{"snapshot_1": {"size": 199164, "prefix": "txt"}},
+			{"snapshot_7": {"size": 200526, "prefix": "txt"}},
+			{"snapshot_8": {"size": 202259, "prefix": "txt"}},
+		}
+	"8_Comments":
+		{
+			{"snapshot_1": {"size": 195457, "prefix": "xml"}},
+			{"snapshot_5": {"size": 199862, "prefix": "xml"}},
+		}
+	"8_Posts":
+		{
+			{"snapshot_1": {"size": 158969, "prefix": "xml"}},
+			{"snapshot_9": {"size": 158846, "prefix": "htnxml"}},
+		}
+	"8_Votes":
+		{
+			{"snapshot_1": {"size": 176537, "prefix": "xml"}},
+			{"snapshot_8": {"size": 174574, "prefix": "htnxml"}},
+		}
+	"8_world192":
+		{
+			{"snapshot_1": {"size": 184248, "prefix": "txt"}},
+			{"snapshot_2": {"size": 184692, "prefix": "txt"}},
+		}
+	"9_bible":
+		{
+			{"snapshot_1": {"size": 161520, "prefix": "txt"}},
+			{"snapshot_2": {"size": 163094, "prefix": "txt"}},
+		}
+	"9_Comments":
+		{
+			{"snapshot_1": {"size": 86079, "prefix": "xml"}},
+			{"snapshot_9": {"size": 85851, "prefix": "htnxml"}},
+		}
+	"9_Posts":
+		{
+			{"snapshot_1": {"size": 159170, "prefix": "xml"}},
+			{"snapshot_3": {"size": 170939, "prefix": "xml"}},
+			{"snapshot_5": {"size": 180740, "prefix": "xml"}},
+			{"snapshot_9": {"size": 180651, "prefix": "htnxml"}},
+		}
+	"9_world192":
+		{
+			{"snapshot_1": {"size": 147302, "prefix": "txt"}},
+			{"snapshot_5": {"size": 147829, "prefix": "txt"}},
+		}
+	"cp":
+		{
+			{"snapshot_1": {"size": 24603, "prefix": "html"}},
+			{"snapshot_4": {"size": 25800, "prefix": "html"}},
+		}
+	"ISCSI":
+		{
+			{"snapshot_1": {"size": 436179, "prefix": "pdf"}},
+			{"snapshot_8": {"size": 179783, "prefix": "pdf"}},
+		}
+	"kellen-riggin-sqPnlSKNZL4-unsplash":
+		{
+			{"snapshot_1": {"size": 1588319, "prefix": "jpg"}},
+			{"snapshot_3": {"size": 1238168, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 762672, "prefix": "jpg"}},
+		}
+	"Metamorphosis, by Franz Kafka":
+		{
+			{"snapshot_1": {"size": 149201, "prefix": "html"}},
+			{"snapshot_2": {"size": 149774, "prefix": "html"}},
+			{"snapshot_6": {"size": 150396, "prefix": "html"}},
+			{"snapshot_10": {"size": 147991, "prefix": "htnhtml"}},
+		}
+	"monero":
+		{
+			{"snapshot_1": {"size": 235411, "prefix": "metastackexchangecom7z"}},
+			{"snapshot_6": {"size": 335516, "prefix": "metastackexchangecom7z"}},
+		}
+	"nathan-lemon-FBiKcUw_sQw-unsplash":
+		{
+			{"snapshot_1": {"size": 8538528, "prefix": "jpg"}},
+			{"snapshot_4": {"size": 6833982, "prefix": "jpg"}},
+		}
+	"nijwam-swargiary-vAWEJmXUpvI-unsplash":
+		{
+			{"snapshot_1": {"size": 2277112, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 2011867, "prefix": "htnjpg"}},
+		}
+	"obj1":
+		{
+			{"snapshot_1": {"size": 21504, "prefix": ""}},
+			{"snapshot_7": {"size": 21504, "prefix": "htn"}},
+		}
+	"pablo-lopez-Om5SkJZXWsw-unsplash":
+		{
+			{"snapshot_1": {"size": 3297574, "prefix": "jpg"}},
+			{"snapshot_3": {"size": 20938050, "prefix": "png"}},
+			{"snapshot_4": {"size": 2887147, "prefix": "jpg"}},
+		}
+	"patrick-tomasso-n-vxsHr9jZA-unsplash":
+		{
+			{"snapshot_1": {"size": 455744, "prefix": "jpg"}},
+			{"snapshot_5": {"size": 168975, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 242044, "prefix": "htnjpg"}},
+		}
+	"proofassistants":
+		{
+			{"snapshot_1": {"size": 197494, "prefix": "metastackexchangecom7z"}},
+			{"snapshot_8": {"size": 197494, "prefix": "metastackexchangecomhtn7z"}},
+		}
+	"recha-oktaviani-5tYUk7sZzqc-unsplash":
+		{
+			{"snapshot_1": {"size": 756361, "prefix": "jpg"}},
+			{"snapshot_8": {"size": 6639444, "prefix": "png"}},
+		}
+	"Sailing":
+		{
+			{"snapshot_1": {"size": 1590185, "prefix": "pdf"}},
+			{"snapshot_10": {"size": 1590185, "prefix": "htnpdf"}},
+		}
+	"shan-a-rajpoot-BTC7uMsbjdM-unsplash":
+		{
+			{"snapshot_1": {"size": 4205492, "prefix": "jpg"}},
+			{"snapshot_9": {"size": 3663289, "prefix": "htnjpg"}},
+		}
+	"substrate":
+		{
+			{"snapshot_1": {"size": 184383, "prefix": "metastackexchangecom7z"}},
+			{"snapshot_6": {"size": 306687, "prefix": "metastackexchangecom7z"}},
+		}
+	"toa-heftiba-DUXACn8tgp4-unsplash":
+		{
+			{"snapshot_1": {"size": 762202, "prefix": "jpg"}},
+			{"snapshot_10": {"size": 767917, "prefix": "htnjpg"}},
+		}
+	"trans":
+		{
+			{"snapshot_1": {"size": 93695, "prefix": ""}},
+			{"snapshot_9": {"size": 93695, "prefix": "htn"}},
+		}
+	"18_world192":
+		{
+			{"snapshot_2": {"size": 64396, "prefix": "txt"}},
+		}
+	"7_Posts":
+		{
+			{"snapshot_2": {"size": 92457, "prefix": "xml"}},
+		}
+	"0_book2":
+		{
+			{"snapshot_3": {"size": 118499, "prefix": ""}},
+		}
+	"3_Comments":
+		{
+			{"snapshot_3": {"size": 78968, "prefix": "xml"}},
+		}
+	"25_Posts":
+		{
+			{"snapshot_4": {"size": 85398, "prefix": "xml"}},
+			{"snapshot_10": {"size": 99031, "prefix": "xml"}},
+		}
+	"3_world192":
+		{
+			{"snapshot_4": {"size": 128802, "prefix": "txt"}},
+			{"snapshot_5": {"size": 129045, "prefix": "txt"}},
+			{"snapshot_10": {"size": 129555, "prefix": "txt"}},
+		}
+	"12_bible":
+		{
+			{"snapshot_5": {"size": 174724, "prefix": "txt"}},
+			{"snapshot_7": {"size": 176371, "prefix": "txt"}},
+		}
+	"pets":
+		{
+			{"snapshot_5": {"size": 1392886, "prefix": "metastackexchangecom7z"}},
+		}
+	"2_Votes":
+		{
+			{"snapshot_6": {"size": 195997, "prefix": "xml"}},
+		}
+	"riccardo-annandale-7e2pe9wjL9M-unsplash":
+		{
+			{"snapshot_6": {"size": 362573, "prefix": "jpg"}},
+			{"snapshot_7": {"size": 335632, "prefix": "htnjpg"}},
+		}
+	"2_bible":
+		{
+			{"snapshot_7": {"size": 95501, "prefix": "txt"}},
+		}
+	"ukrainian":
+		{
+			{"snapshot_7": {"size": 617708, "prefix": "metastackexchangecom7z"}},
+		}
+	"1_pg36-images-kf8":
+		{
+			{"snapshot_8": {"size": 64868, "prefix": "mobi"}},
+		}
+	"23_Posts":
+		{
+			{"snapshot_8": {"size": 185474, "prefix": "xml"}},
+		}
+	"16_Posts":
+		{
+			{"snapshot_9": {"size": 193801, "prefix": "xml"}},
+		}
+	"4_book2":
+		{
+			{"snapshot_10": {"size": 119908, "prefix": ""}},
+		}
+	"tim-arterbury-VkwRmha1_tI-unsplash":
+		{
+			{"snapshot_10": {"size": 3443373, "prefix": "jpg"}},
+		}
+}
