@@ -24,7 +24,8 @@ for vol, files in volumues.items():
 
     with open(f"Volume  {vol}", "w") as sub:
         volume_number = vol.split('_')[1]
-        sub.write(f"File name   Infected at\n")
+        sub.write(f"File name\tInfected at\n")
 
         for file, snap_num in files.items():
-            sub.write(f"{file}  {snap_num}\n")
+            new_snap_num = f'snap_{snap_num[-1]}'
+            sub.write(f"{file}\t{new_snap_num}\n")
